@@ -1,0 +1,9 @@
+# Tydzień 11 – Projekt końcowy
+
+## Cel
+Połączenie wszystkich narzędzi: SQL → Python → Power BI.
+
+## Pliki
+- projekt_koncowy.pbix – raport Power BI
+- projekt_koncowy.ipynb – notebook Python
+- dane.sql – baza danych do analizy
