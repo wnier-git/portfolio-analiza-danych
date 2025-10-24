@@ -18,3 +18,12 @@ W tym repozytorium dokumentuję moją naukę i publikuję mini-projekty tygodnio
 - Tydzień 10: SQL zaawansowane zapytania i praktyka
 - Tydzień 11: Projekt końcowy - łączenie narzędzi
 - Tydzień 12: Portolio i praktyka - rozpoczędzie mini zleceń
+
+
+## 🏆 Certyfikaty i kwalifikacje
+Zobacz wszystkie w folderze (Certyfikaty/)
+
+- ✅ Excel – Formuły i funkcje (LinkedIn Learning, 2025)
+- ✅ Power BI – Raportowanie i wizualizacje (Udemy, 2025)
+- ✅ Python – Analiza danych z Pandas (Kaggle Learn, 2026)
+- ✅ SQL – Zapytania i raporty (DataCamp, 2026)
