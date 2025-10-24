@@ -1,0 +1,53 @@
+# 🏅 Certyfikaty i kwalifikacje
+
+Tutaj znajdują się wszystkie potwierdzone kursy i certyfikaty, które zdobyłam podczas nauki analizy danych.
+
+Każdy certyfikat jest **dowodem ukończenia kursu praktycznego**, zgodnego z planem tygodniowym mojego rozwoju jako analityk danych.
+
+---
+
+## 📘 Lista certyfikatów
+
+|               Nazwa kursu             |   Platforma  | Data ukończenia |                  Zakres                 |             Plik / Link            |
+|---------------------------------------|--------------|-----------------|-----------------------------------------|------------------------------------|
+| **Excel – Formuły i funkcje**         | LinkedIn     |   12.22.2222    | Podstawy Excela, funkcje, logika formuł | [PDF](Excel_Podstawy_LinkedIn.pdf) |
+| **Power Query – Czyszczenie danych**  | Udemy        |   12.22.2222    | Power Query, przekształcanie danych     | [PDF](PowerQuery_Podstawy.pdf)     |
+| **Power BI – Wizualizacje i raporty** | Udemy        |   12.22.2222    | Dashboardy, DAX, raporty interaktywne   | [PDF](PowerBI_Wizualizacje.pdf)    |
+| **Python – Analiza danych z Pandas**  | Kaggle Learn |   12.22.2222    | Pandas, wykresy, analiza danych         | [PDF](Python_Pandas.pdf)           |
+| **SQL – Zapytania i analiza danych**  | DataCamp     |   12.22.2222    | SELECT, JOIN, GROUP BY                  | [PDF](SQL_Podstawy.pdf)            |
+
+---
+
+## 📂 Instrukcja dodawania nowego certyfikatu
+
+1️⃣ **Po ukończeniu kursu:**
+- Pobierz certyfikat jako plik **PDF** lub **PNG**,  
+- Zapisz w folderze `Certyfikaty/`  
+  (np. `2025_11_Excel_Podstawy_LinkedIn.pdf`).
+
+2️⃣ **Zaktualizuj tabelę powyżej:**
+- Wpisz nazwę kursu, platformę, datę ukończenia i link do pliku.
+
+3️⃣ **Zrób commit na GitHub:**
+   - Komentarz: `dodano certyfikat: Excel – Formuły i funkcje`
+
+---
+
+## 📅 Plan dodawania certyfikatów
+
+| Tydzień | Temat | Kiedy dodać certyfikat | Sugerowany kurs / platforma |
+|----------|--------|------------------------|------------------------------|
+| 1 | Excel – formuły | Dzień 7 | LinkedIn Learning – „Excel: Formuły i funkcje” |
+| 2 | Power Query | Dzień 7 | Udemy – „Power Query od podstaw” |
+| 4 | Power BI | Dzień 7 | Udemy – „Power BI: Tworzenie raportów i dashboardów” |
+| 6–7 | Python | Dzień 7 tygodnia 7 | Kaggle Learn – „Intro to Data Analysis with Pandas” |
+| 9–10 | SQL | Dzień 7 tygodnia 10 | DataCamp – „Introduction to SQL” |
+
+---
+
+🧠 **Wskazówka:**  
+Możesz też dodać te certyfikaty do swojego profilu **LinkedIn**, a w README repozytorium dodać link do profilu (np. „Zobacz moje certyfikaty także na LinkedIn”).
+
+---
+
+📌 Ostatnia aktualizacja: _[tu wpiszesz datę, np. 24.10.2025]_
